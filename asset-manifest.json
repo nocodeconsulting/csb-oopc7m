@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-oopc7m/static/css/main.c6a229d1.chunk.css",
+    "main.js": "https://.github.io/csb-oopc7m/static/js/main.d162e515.chunk.js",
+    "main.js.map": "https://.github.io/csb-oopc7m/static/js/main.d162e515.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-oopc7m/static/js/runtime-main.f3919414.js",
+    "runtime-main.js.map": "https://.github.io/csb-oopc7m/static/js/runtime-main.f3919414.js.map",
+    "static/css/2.fed9dcda.chunk.css": "https://.github.io/csb-oopc7m/static/css/2.fed9dcda.chunk.css",
+    "static/js/2.64ceca3d.chunk.js": "https://.github.io/csb-oopc7m/static/js/2.64ceca3d.chunk.js",
+    "static/js/2.64ceca3d.chunk.js.map": "https://.github.io/csb-oopc7m/static/js/2.64ceca3d.chunk.js.map",
+    "index.html": "https://.github.io/csb-oopc7m/index.html",
+    "static/css/2.fed9dcda.chunk.css.map": "https://.github.io/csb-oopc7m/static/css/2.fed9dcda.chunk.css.map",
+    "static/css/main.c6a229d1.chunk.css.map": "https://.github.io/csb-oopc7m/static/css/main.c6a229d1.chunk.css.map",
+    "static/js/2.64ceca3d.chunk.js.LICENSE.txt": "https://.github.io/csb-oopc7m/static/js/2.64ceca3d.chunk.js.LICENSE.txt",
+    "static/media/twilio-mark-red.09b78559.svg": "https://.github.io/csb-oopc7m/static/media/twilio-mark-red.09b78559.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3919414.js",
+    "static/css/2.fed9dcda.chunk.css",
+    "static/js/2.64ceca3d.chunk.js",
+    "static/css/main.c6a229d1.chunk.css",
+    "static/js/main.d162e515.chunk.js"
+  ]
+}
